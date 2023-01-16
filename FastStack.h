@@ -3,7 +3,7 @@
 
 #include "ASTNode.h"
 #include <stack>
-
+//bump
 class FastStack {
 public:
     FastStack(int size) : m_ptr(-1) { m_stack.resize(size); }
