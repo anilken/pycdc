@@ -1,7 +1,7 @@
 #include "pyc_module.h"
 #include "data.h"
 #include <stdexcept>
-
+// bump code
 void PycModule::setVersion(unsigned int magic)
 {
     // Default for versions that don't support unicode selection
